@@ -10,8 +10,8 @@ import plotly.express as px
 
 
 ###### Define your variables #####
-sourceurl = 'https://www.kaggle.com/c/titanic'
-githublink = 'https://github.com/plotly-dash-apps/304-titanic-dropdown'
+sourceurl = 'https://github.com/cohos-method/304-titanic-dropdown/blob/main/assets/bank-additional.csv'
+githublink = 'https://github.com/cohos-method/304-titanic-dropdown'
 
 filename = "assets/bank-additional.csv"
 variables_list=['Marital', 'Housing', 'Contact']
